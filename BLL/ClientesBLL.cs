@@ -3,7 +3,6 @@ using System.Data;
 using Loja.Modelos;
 using Loja.DAL;
 
-
 namespace Loja.BLL
 
 {
